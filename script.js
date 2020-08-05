@@ -33,7 +33,7 @@ let mydata = [
     "Latitude": 40.80682568,
     "Longitude": -73.9461422,
     "File": "04.jpg",
-    "Source": "ALON SICHERMAN"
+    "Source": "Alon Sicherman"
   },
   {
     "ID": 5,
@@ -78,7 +78,7 @@ let mydata = [
     "Latitude": 34.0522342,
     "Longitude": -118.2436849,
     "File": "09.jpg",
-    "Source": "ROBYN BECK/GETTY"
+    "Source": "Robyn Beck"
   },
   {
     "ID": 10,
@@ -141,7 +141,7 @@ let mydata = [
     "Latitude": 37.8043514,
     "Longitude": -122.2711639,
     "File": "18.jpg",
-    "Source": "HEARST NEWSPAPERS"
+    "Source": "Hearst Newspapers"
   },
   {
     "ID": 19,
@@ -150,7 +150,7 @@ let mydata = [
     "Latitude": 27.76619064,
     "Longitude": -82.66799927,
     "File": "19.jpg",
-    "Source": "BRYAN EDWARD CREATIVE"
+    "Source": "Bryan Edward Creative"
   },
   {
     "ID": 20,
@@ -270,7 +270,7 @@ let mymap = L.map('mapid').setView([39.04, -95.67], 4);
 
 let fistIcon = L.icon({
   iconUrl: 'icon.png',
-  iconSize: [22, 31],
+  iconSize: [22, 22],
   iconAnchor: [10, 10],
   popupAnchor: [0, 0],
 });
